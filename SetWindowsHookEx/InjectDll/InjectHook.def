@@ -1,0 +1,7 @@
+LIBRARY InjectHook
+EXPORTS
+	InstallCallWndProc		PRIVATE
+	UninstallCallWndProc	PRIVATE
+	InstallCallWndRet		PRIVATE
+	UninstallCallWndRet		PRIVATE
+	
